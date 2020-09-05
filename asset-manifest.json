@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bbpm99.github.io/home/static/css/main.15d63cee.chunk.css",
+    "main.js": "/bbpm99.github.io/home/static/js/main.5a0282b8.chunk.js",
+    "main.js.map": "/bbpm99.github.io/home/static/js/main.5a0282b8.chunk.js.map",
+    "runtime-main.js": "/bbpm99.github.io/home/static/js/runtime-main.e6207717.js",
+    "runtime-main.js.map": "/bbpm99.github.io/home/static/js/runtime-main.e6207717.js.map",
+    "static/js/2.46f31704.chunk.js": "/bbpm99.github.io/home/static/js/2.46f31704.chunk.js",
+    "static/js/2.46f31704.chunk.js.map": "/bbpm99.github.io/home/static/js/2.46f31704.chunk.js.map",
+    "index.html": "/bbpm99.github.io/home/index.html",
+    "precache-manifest.cb73301dbd74dd84447524588bca8146.js": "/bbpm99.github.io/home/precache-manifest.cb73301dbd74dd84447524588bca8146.js",
+    "service-worker.js": "/bbpm99.github.io/home/service-worker.js",
+    "static/css/main.15d63cee.chunk.css.map": "/bbpm99.github.io/home/static/css/main.15d63cee.chunk.css.map",
+    "static/js/2.46f31704.chunk.js.LICENSE.txt": "/bbpm99.github.io/home/static/js/2.46f31704.chunk.js.LICENSE.txt",
+    "static/media/self.jpg": "/bbpm99.github.io/home/static/media/self.de697dc3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6207717.js",
+    "static/js/2.46f31704.chunk.js",
+    "static/css/main.15d63cee.chunk.css",
+    "static/js/main.5a0282b8.chunk.js"
+  ]
+}
